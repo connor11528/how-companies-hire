@@ -116,7 +116,7 @@ Organize the world's information and make it universally accessible and useful.
 
 ### Intercom  
 
-Intercom's are making business personal. The way businesses talk to people online is broken. Intercom is fixing it.
+Intercom's making business personal. The way businesses talk to people online is broken. Intercom is fixing it.
 
 <a href="https://blog.intercom.com/how-we-hire-engineers-part-1/">How we hire engineers, part 1: Our screener</a>
 
@@ -213,10 +213,9 @@ Stripe is the best way to accept payments online and in mobile apps. We handle b
 <hr />
 </br>
 
-## Brought to you by Jobeir
-Find the best jobs at the best tech companies
-
-Visit <a href="https://jobeir.com">Jobeir.com</a>  
+## Jobeir
+<a href="https://jobeir.com">Find the best jobs at the best tech companies</a>
+  
 [![Join the Jobeir community on Spectrum](https://withspectrum.github.io/badge/badge.svg)](https://spectrum.chat/jobeir)
 
 
