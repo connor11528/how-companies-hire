@@ -24,6 +24,7 @@ A curated list by <a target="_blank" href="https://jobeir.com">Jobeir</a> of how
 If you'd like to add a company please send a PR with a new folder, the companies official logo, and at least 1 publicly available link to their hiring process.
 
 </br>
+<hr />
 </br>
 
 <img src="https://raw.githubusercontent.com/Jobeir/how-companies-hire/master/companies/asana/asana-logo.jpg" height="30px" alt="Asana logo" />
@@ -35,6 +36,7 @@ Asana’s mission is to help humanity thrive by enabling all teams to work toget
 <a target="_blank" href="https://blog.asana.com/2016/03/asana-engineering-interview-guide/">Asana interview guide</a>
 
 </br>
+<hr />
 </br>
 
 <img src="https://raw.githubusercontent.com/Jobeir/how-companies-hire/master/companies/auth0/auth0-logo.png" height="30px" alt="Auth0 logo" />
@@ -46,6 +48,7 @@ Auth0 solve's the most complex and large-scale identity use cases for global ent
 <a target="_blank" href="https://auth0.com/blog/how-we-hire-engineers/">How we hire engineers</a>
 
 </br>
+<hr />
 </br>
 
 <img src="https://raw.githubusercontent.com/Jobeir/how-companies-hire/master/companies/buffer/buffer-logo.png" height="30px" alt="Buffer logo" />
@@ -57,6 +60,7 @@ Buffer is the best way to drive traffic, increase fan engagement and save time o
 <a target="_blank" href="https://open.buffer.com/how-we-hire/">How We Hire at Buffer</a> 
 
 </br>
+<hr />
 </br>
 
 <img src="https://raw.githubusercontent.com/Jobeir/how-companies-hire/master/companies/evernote/evernote-logo.png" height="30px" alt="Evernote logo" />
@@ -68,6 +72,7 @@ We are talented, diverse, and spirited team making a meaningful impact on the pr
 <a target="_blank"  href="http://www.greenhouse.io/blog/how-we-hire-a-look-inside-evernotes-revamped-recruiting-process">A Look Inside Evernote's Revamped Recruiting Process</a>
 
 </br>
+<hr />
 </br>
 
 <img src="https://raw.githubusercontent.com/Jobeir/how-companies-hire/master/companies/facebook/facebook-logo.png" height="30px" alt="Facebook logo" />
@@ -79,6 +84,7 @@ Give people the power to build community and bring the world closer together.
 <a target="_blank"  href="https://www.facebook.com/notes/facebook-engineering/get-that-job-at-facebook/10150964382448920/">Get that job at Facebook (2012)</a>
 
 </br>
+<hr />
 </br>
 
 <img src="https://raw.githubusercontent.com/Jobeir/how-companies-hire/master/companies/github/github-logo.png" height="30px" alt="Github logo" />
@@ -91,6 +97,7 @@ We’re supporting a community where more than 26 million people learn, share, a
 <a target="_blank" href="https://github.com/blog/1269-the-github-hiring-experience">The GitHub hiring experience</a>
 
 </br>
+<hr />
 </br>
 
 <img src="https://raw.githubusercontent.com/Jobeir/how-companies-hire/master/companies/google/google-logo.png" height="30px" alt="Google logo" />
@@ -102,6 +109,7 @@ Organize the world's information and make it universally accessible and useful.
 <a target="_blank" href="https://careers.google.com/how-we-hire/">How we hire</a>
 
 </br>
+<hr />
 </br>
 
 <img src="https://raw.githubusercontent.com/Jobeir/how-companies-hire/master/companies/intercom/intercom-logo.jpg" height="30px" alt="Intercom logo" />
@@ -115,6 +123,7 @@ Intercom's are making business personal. The way businesses talk to people onlin
 <a target="_blank"  href="https://blog.intercom.com/how-we-hire-engineers-part-2-culture-contribution/">How we hire engineers, part 2: culture contribution</a>
 
 </br>
+<hr />
 </br>
 
 <img src="https://raw.githubusercontent.com/Jobeir/how-companies-hire/master/companies/mapbox/mapbox-logo.png" height="30px" alt="Mapbox logo" />
@@ -126,6 +135,7 @@ Mapbox is the location data platform for mobile and web applications. We provide
 <a target="_blank" href="https://blog.mapbox.com/how-we-hire-at-mapbox-cd946418299f">How we hire at Mapbox</a>
 
 </br>
+<hr />
 </br>
 
 <img src="https://raw.githubusercontent.com/Jobeir/how-companies-hire/master/companies/medium/medium-logo.png" height="30px" alt="Medium logo" />
@@ -140,6 +150,7 @@ Medium taps into the brains of the world’s most insightful writers, thinkers, 
 </a>
 
 </br>
+<hr />
 </br>
 
 <img src="https://raw.githubusercontent.com/Jobeir/how-companies-hire/master/companies/new-relic/new-relic-logo.png" height="30px" alt="New Relic logo" />
@@ -151,6 +162,7 @@ New Relic gives you deep performance analytics for every part of your software e
 <a target="_blank"  href="https://blog.newrelic.com/2016/04/14/engineering-management-hire-develop-great-engineers/">How We Hire and Develop Great Engineers at New Relic</a>
 
 </br>
+<hr />
 </br>
 
 <img src="https://raw.githubusercontent.com/Jobeir/how-companies-hire/master/companies/palantir/palantir-logo.png" height="30px" alt="Palantir logo" />
@@ -162,6 +174,7 @@ We believe in augmenting human intelligence, not replacing it.
 <a target="_blank" href="https://www.palantir.com/getting-hired/">Getting hired at Palantir</a>
 
 </br>
+<hr />
 </br>
 
 <img src="https://raw.githubusercontent.com/Jobeir/how-companies-hire/master/companies/shopify/shopify-logo.jpg" height="30px" alt="Shopify logo" />
@@ -173,6 +186,7 @@ Make commerce better for everyone. We focus on making commerce better for everyo
 <a target="_blank" href="http://www.vanschneider.com/how-to-land-a-job-at-shopify">How to land a job at Shopify</a>
 
 </br>
+<hr />
 </br>
 
 <img src="https://raw.githubusercontent.com/Jobeir/how-companies-hire/master/companies/slack/slack-logo.jpg" height="30px" alt="Slack logo" />
@@ -184,6 +198,7 @@ Making work simpler, more pleasant, and more productive. At Slack, we’re build
 <a target="_blank"  href="https://slack.engineering/a-walkthrough-guide-to-finding-an-engineering-job-at-slack-dc07dd7b0144">A walkthrough guide to finding an engineering job at Slack</a>
 
 </br>
+<hr />
 </br>
 
 <img src="https://raw.githubusercontent.com/Jobeir/how-companies-hire/master/companies/stripe/stripe-logo.jpg" height="30px" alt="Stripe logo" />
@@ -195,8 +210,10 @@ Stripe is the best way to accept payments online and in mobile apps. We handle b
 <a target="_blank" href="https://stripe.com/jobs/engineering-onsite.pdf">On-site interviews for Engineering: What to expect</a>
 
 </br>
+<hr />
 </br>
 </br>
+<hr />
 </br>
 --- 
 
@@ -208,10 +225,12 @@ Visit <a target="_blank" href="https://jobeir.com">Jobeir.com</a> or
 
 
 </br>
+<hr />
 </br>
 ---
 
 </br>
+<hr />
 </br>
 
 ### License  
