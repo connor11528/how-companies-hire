@@ -2,6 +2,7 @@
 
 
 
+<<<<<<< HEAD
 <img src="https://raw.githubusercontent.com/Jobeir/how-companies-hire/master/companies/asana/asana-logo.jpg" height="40px" alt="Asana logo" />
 
 <img src="https://raw.githubusercontent.com/Jobeir/how-companies-hire/master/companies/auth0/auth0-logo.png" height="40px" alt="Auth0 logo" />
@@ -31,3 +32,6 @@
 <img src="https://raw.githubusercontent.com/Jobeir/how-companies-hire/master/companies/slack/slack-logo.jpg" height="40px" alt="Slack logo" />
 
 <img src="https://raw.githubusercontent.com/Jobeir/how-companies-hire/master/companies/stripe/stripe-logo.jpg" height="40px" alt="Stripe logo" />
+=======
+<img src="https://raw.githubusercontent.com/Jobeir/how-companies-hire/master/companies/asana/asana-logo.jpg" height="50px" alt="Asana logo" />
+>>>>>>> 46915b56818fada8db81286057de721e2fdc82fc
