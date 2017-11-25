@@ -1,6 +1,5 @@
 # How companies hire and their interview guides
-A curated list of how comapnies within the technology sector hire. Get an inside look into how to best prepare for different interview processes. If you're refining your own interview process get see how you can improve it to consistently bring in the best talent. These resources are focused around technical engineering interviews, but also have insight into general hiring practices.
-
+A curated list by <a target="_blank" href="https://jobeir.com">Jobeir</a> of how comapnies within the technology sector hire. Get an inside look into how to best prepare for different interview processes. If you're refining your own interview process get see how you can improve it to consistently bring in the best talent. These resources are focused around technical engineering interviews, but also have insight into general hiring practices.
 
 ### The companies  
 
@@ -20,7 +19,6 @@ A curated list of how comapnies within the technology sector hire. Get an inside
   - [Slack](#slack)
   - [Stripe](#stripe)
 
-
 ### How do I add a company?  
 
 If you'd like to add a company please send a PR with a new folder, the companies official logo, and at least 1 publicly available link to their hiring process.
@@ -34,7 +32,7 @@ If you'd like to add a company please send a PR with a new folder, the companies
 
 Asana’s mission is to help humanity thrive by enabling all teams to work together effortlessly.
 
-<a href="https://blog.asana.com/2016/03/asana-engineering-interview-guide/">Asana interview guide</a>
+<a target="_blank" href="https://blog.asana.com/2016/03/asana-engineering-interview-guide/">Asana interview guide</a>
 
 </br>
 </br>
@@ -45,7 +43,7 @@ Asana’s mission is to help humanity thrive by enabling all teams to work toget
 
 Auth0 solve's the most complex and large-scale identity use cases for global enterprises with our extensible and easy-to-integrate platform, securing billions of logins every year.
 
-<a href="https://auth0.com/blog/how-we-hire-engineers/">How we hire engineers</a>
+<a target="_blank" href="https://auth0.com/blog/how-we-hire-engineers/">How we hire engineers</a>
 
 </br>
 </br>
@@ -56,7 +54,7 @@ Auth0 solve's the most complex and large-scale identity use cases for global ent
 
 Buffer is the best way to drive traffic, increase fan engagement and save time on social media.
 
-<a href="https://open.buffer.com/how-we-hire/">How We Hire at Buffer</a> 
+<a target="_blank" href="https://open.buffer.com/how-we-hire/">How We Hire at Buffer</a> 
 
 </br>
 </br>
@@ -67,7 +65,7 @@ Buffer is the best way to drive traffic, increase fan engagement and save time o
 
 We are talented, diverse, and spirited team making a meaningful impact on the productivity and success of millions of people around the world.
 
-<a href="http://www.greenhouse.io/blog/how-we-hire-a-look-inside-evernotes-revamped-recruiting-process">A Look Inside Evernote's Revamped Recruiting Process</a>
+<atarget="_blank"  href="http://www.greenhouse.io/blog/how-we-hire-a-look-inside-evernotes-revamped-recruiting-process">A Look Inside Evernote's Revamped Recruiting Process</a>
 
 </br>
 </br>
@@ -78,7 +76,7 @@ We are talented, diverse, and spirited team making a meaningful impact on the pr
 
 Give people the power to build community and bring the world closer together.
 
-<a href="https://www.facebook.com/notes/facebook-engineering/get-that-job-at-facebook/10150964382448920/">Get that job at Facebook (2012)</a>
+<atarget="_blank"  href="https://www.facebook.com/notes/facebook-engineering/get-that-job-at-facebook/10150964382448920/">Get that job at Facebook (2012)</a>
 
 </br>
 </br>
@@ -90,7 +88,7 @@ Give people the power to build community and bring the world closer together.
 Github is how people build software.
 We’re supporting a community where more than 26 million people learn, share, and work together to build software.
 
-<a href="https://github.com/blog/1269-the-github-hiring-experience">The GitHub hiring experience</a>
+<a target="_blank" href="https://github.com/blog/1269-the-github-hiring-experience">The GitHub hiring experience</a>
 
 </br>
 </br>
@@ -101,7 +99,7 @@ We’re supporting a community where more than 26 million people learn, share, a
 
 Organize the world's information and make it universally accessible and useful.
 
-<a href="https://careers.google.com/how-we-hire/">How we hire</a>
+<a target="_blank" href="https://careers.google.com/how-we-hire/">How we hire</a>
 
 </br>
 </br>
@@ -112,9 +110,9 @@ Organize the world's information and make it universally accessible and useful.
 
 Intercom's are making business personal. The way businesses talk to people online is broken. Intercom is fixing it.
 
-<a href="https://blog.intercom.com/how-we-hire-engineers-part-1/">How we hire engineers, part 1: Our screener</a>
+<a target="_blank" href="https://blog.intercom.com/how-we-hire-engineers-part-1/">How we hire engineers, part 1: Our screener</a>
 
-<a href="https://blog.intercom.com/how-we-hire-engineers-part-2-culture-contribution/">How we hire engineers, part 2: culture contribution</a>
+<atarget="_blank"  href="https://blog.intercom.com/how-we-hire-engineers-part-2-culture-contribution/">How we hire engineers, part 2: culture contribution</a>
 
 </br>
 </br>
@@ -125,7 +123,7 @@ Intercom's are making business personal. The way businesses talk to people onlin
 
 Mapbox is the location data platform for mobile and web applications. We provide building blocks to add location features like maps, search, and navigation into any experience you create.
 
-<a href="https://blog.mapbox.com/how-we-hire-at-mapbox-cd946418299f">How we hire at Mapbox</a>
+<a target="_blank" href="https://blog.mapbox.com/how-we-hire-at-mapbox-cd946418299f">How we hire at Mapbox</a>
 
 </br>
 </br>
@@ -136,9 +134,9 @@ Mapbox is the location data platform for mobile and web applications. We provide
 
 Medium taps into the brains of the world’s most insightful writers, thinkers, and storytellers to bring you the smartest takes on topics that matter.
 
-<a href="https://medium.engineering/mediums-engineering-interview-process-b8d6b67927c4">Medium’s engineering interview process</a>
+<atarget="_blank"  href="https://medium.engineering/mediums-engineering-interview-process-b8d6b67927c4">Medium’s engineering interview process</a>
 
-<a href="https://medium.engineering/a-guide-to-your-technical-interview-at-medium-76d91942c737">A guide to technical interviews at Medium
+<atarget="_blank"  href="https://medium.engineering/a-guide-to-your-technical-interview-at-medium-76d91942c737">A guide to technical interviews at Medium
 </a>
 
 </br>
@@ -150,18 +148,18 @@ Medium taps into the brains of the world’s most insightful writers, thinkers, 
 
 New Relic gives you deep performance analytics for every part of your software environment.
 
-<a href="https://blog.newrelic.com/2016/04/14/engineering-management-hire-develop-great-engineers/">How We Hire and Develop Great Engineers at New Relic</a>
+<atarget="_blank"  href="https://blog.newrelic.com/2016/04/14/engineering-management-hire-develop-great-engineers/">How We Hire and Develop Great Engineers at New Relic</a>
 
 </br>
 </br>
 
-<img src="https://raw.githubusercontent.com/Jobeir/how-companies-hire/master/companies/palanatir/palanatir-logo.png" height="30px" alt="Palanatir logo" />
+<img src="https://raw.githubusercontent.com/Jobeir/how-companies-hire/master/companies/palantir/palantir-logo.png" height="30px" alt="Palantir logo" />
 
 ### Palantir  
 
 We believe in augmenting human intelligence, not replacing it.
 
-<a href="https://www.palantir.com/getting-hired/">Getting hired at Palantir</a>
+<a target="_blank" href="https://www.palantir.com/getting-hired/">Getting hired at Palantir</a>
 
 </br>
 </br>
@@ -172,7 +170,7 @@ We believe in augmenting human intelligence, not replacing it.
 
 Make commerce better for everyone. We focus on making commerce better for everyone, so businesses can focus on what they do best: building and selling their products.
 
-<a href="http://www.vanschneider.com/how-to-land-a-job-at-shopify">How to land a job at Shopify</a>
+<a target="_blank" href="http://www.vanschneider.com/how-to-land-a-job-at-shopify">How to land a job at Shopify</a>
 
 </br>
 </br>
@@ -183,7 +181,7 @@ Make commerce better for everyone. We focus on making commerce better for everyo
 
 Making work simpler, more pleasant, and more productive. At Slack, we’re building the platform that connects teams with the apps, services, and resources they need to get work done.
 
-<a href="https://slack.engineering/a-walkthrough-guide-to-finding-an-engineering-job-at-slack-dc07dd7b0144">A walkthrough guide to finding an engineering job at Slack</a>
+<atarget="_blank"  href="https://slack.engineering/a-walkthrough-guide-to-finding-an-engineering-job-at-slack-dc07dd7b0144">A walkthrough guide to finding an engineering job at Slack</a>
 
 </br>
 </br>
@@ -194,8 +192,18 @@ Making work simpler, more pleasant, and more productive. At Slack, we’re build
 
 Stripe is the best way to accept payments online and in mobile apps. We handle billions of dollars every year for forward-thinking businesses around the world.
 
-<a href="https://stripe.com/jobs/engineering-onsite.pdf">On-site interviews for Engineering: What to expect</a>
+<a target="_blank" href="https://stripe.com/jobs/engineering-onsite.pdf">On-site interviews for Engineering: What to expect</a>
 
+--- 
+
+## Jobeir
+Find the best jobs at the best tech companies
+
+Visit <a target="_blank" href="https://jobeir.com">Jobeir.com</a>
+
+or
+
+[![Join the Jobeir community on Spectrum](https://withspectrum.github.io/badge/badge.svg)](https://spectrum.chat/jobeir)
 
 
 
