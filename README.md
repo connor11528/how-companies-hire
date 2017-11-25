@@ -65,7 +65,7 @@ Buffer is the best way to drive traffic, increase fan engagement and save time o
 
 We are talented, diverse, and spirited team making a meaningful impact on the productivity and success of millions of people around the world.
 
-<atarget="_blank"  href="http://www.greenhouse.io/blog/how-we-hire-a-look-inside-evernotes-revamped-recruiting-process">A Look Inside Evernote's Revamped Recruiting Process</a>
+<a target="_blank"  href="http://www.greenhouse.io/blog/how-we-hire-a-look-inside-evernotes-revamped-recruiting-process">A Look Inside Evernote's Revamped Recruiting Process</a>
 
 </br>
 </br>
@@ -76,7 +76,7 @@ We are talented, diverse, and spirited team making a meaningful impact on the pr
 
 Give people the power to build community and bring the world closer together.
 
-<atarget="_blank"  href="https://www.facebook.com/notes/facebook-engineering/get-that-job-at-facebook/10150964382448920/">Get that job at Facebook (2012)</a>
+<a target="_blank"  href="https://www.facebook.com/notes/facebook-engineering/get-that-job-at-facebook/10150964382448920/">Get that job at Facebook (2012)</a>
 
 </br>
 </br>
@@ -112,7 +112,7 @@ Intercom's are making business personal. The way businesses talk to people onlin
 
 <a target="_blank" href="https://blog.intercom.com/how-we-hire-engineers-part-1/">How we hire engineers, part 1: Our screener</a>
 
-<atarget="_blank"  href="https://blog.intercom.com/how-we-hire-engineers-part-2-culture-contribution/">How we hire engineers, part 2: culture contribution</a>
+<a target="_blank"  href="https://blog.intercom.com/how-we-hire-engineers-part-2-culture-contribution/">How we hire engineers, part 2: culture contribution</a>
 
 </br>
 </br>
@@ -134,9 +134,9 @@ Mapbox is the location data platform for mobile and web applications. We provide
 
 Medium taps into the brains of the world’s most insightful writers, thinkers, and storytellers to bring you the smartest takes on topics that matter.
 
-<atarget="_blank"  href="https://medium.engineering/mediums-engineering-interview-process-b8d6b67927c4">Medium’s engineering interview process</a>
+<a target="_blank"  href="https://medium.engineering/mediums-engineering-interview-process-b8d6b67927c4">Medium’s engineering interview process</a>
 
-<atarget="_blank"  href="https://medium.engineering/a-guide-to-your-technical-interview-at-medium-76d91942c737">A guide to technical interviews at Medium
+<a target="_blank"  href="https://medium.engineering/a-guide-to-your-technical-interview-at-medium-76d91942c737">A guide to technical interviews at Medium
 </a>
 
 </br>
@@ -148,7 +148,7 @@ Medium taps into the brains of the world’s most insightful writers, thinkers, 
 
 New Relic gives you deep performance analytics for every part of your software environment.
 
-<atarget="_blank"  href="https://blog.newrelic.com/2016/04/14/engineering-management-hire-develop-great-engineers/">How We Hire and Develop Great Engineers at New Relic</a>
+<a target="_blank"  href="https://blog.newrelic.com/2016/04/14/engineering-management-hire-develop-great-engineers/">How We Hire and Develop Great Engineers at New Relic</a>
 
 </br>
 </br>
@@ -181,7 +181,7 @@ Make commerce better for everyone. We focus on making commerce better for everyo
 
 Making work simpler, more pleasant, and more productive. At Slack, we’re building the platform that connects teams with the apps, services, and resources they need to get work done.
 
-<atarget="_blank"  href="https://slack.engineering/a-walkthrough-guide-to-finding-an-engineering-job-at-slack-dc07dd7b0144">A walkthrough guide to finding an engineering job at Slack</a>
+<a target="_blank"  href="https://slack.engineering/a-walkthrough-guide-to-finding-an-engineering-job-at-slack-dc07dd7b0144">A walkthrough guide to finding an engineering job at Slack</a>
 
 </br>
 </br>
@@ -194,18 +194,25 @@ Stripe is the best way to accept payments online and in mobile apps. We handle b
 
 <a target="_blank" href="https://stripe.com/jobs/engineering-onsite.pdf">On-site interviews for Engineering: What to expect</a>
 
+</br>
+</br>
+</br>
+</br>
 --- 
 
-## Jobeir
+# Jobeir
 Find the best jobs at the best tech companies
 
-Visit <a target="_blank" href="https://jobeir.com">Jobeir.com</a>
-
-or
-
+Visit <a target="_blank" href="https://jobeir.com">Jobeir.com</a> or
 [![Join the Jobeir community on Spectrum](https://withspectrum.github.io/badge/badge.svg)](https://spectrum.chat/jobeir)
 
 
+</br>
+</br>
+---
+
+</br>
+</br>
 
 ### License  
 
