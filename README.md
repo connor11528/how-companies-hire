@@ -177,6 +177,18 @@ We believe in augmenting human intelligence, not replacing it.
 <hr />
 </br>
 
+<img src="https://raw.githubusercontent.com/Jobeir/how-companies-hire/master/companies/reddit/reddit-logo.png" height="34px" alt="Reddit logo" />
+
+### Reddit  
+
+We believe in augmenting human intelligence, not replacing it.
+
+<a href="https://redditblog.com/2017/08/02/acing-your-technical-interviews-at-reddit/">Acing Your Technical Interviews at Reddit</a>
+
+</br>
+<hr />
+</br>
+
 <img src="https://raw.githubusercontent.com/Jobeir/how-companies-hire/master/companies/shopify/shopify-logo.jpg" height="34px" alt="Shopify logo" />
 
 ### Shopify  
