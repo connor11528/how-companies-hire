@@ -15,6 +15,7 @@ A curated list by <a href="https://jobeir.com">Jobeir</a> of how comapnies withi
   - [Medium](#medium)
   - [New Relic](#new-relic)
   - [Palantir](#palantir)
+  - [Reddit](#reddit)
   - [Shopify](#shopify)
   - [Slack](#slack)
   - [Stripe](#stripe)
