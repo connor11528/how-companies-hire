@@ -1,5 +1,7 @@
 # How companies hire and their interview guides
-A curated list by <a href="https://jobeir.com">Jobeir</a> of how comapnies within the technology sector hire. Get an inside look into how to best prepare for different interview processes. If you're refining your own interview process get see how you can improve it to consistently bring in the best talent. These resources are focused around technical engineering interviews, but also have insight into general hiring practices.
+A curated list by <a href="https://jobeir.com">Jobeir</a> of how comapnies hire. We've aggregated a collection of resources directly shared by different companies within technology to help you understand how companies hire. The majority of the content is focused around technical interviews and hiring software engineers.
+
+Use this resource to learn how companies hire. Compare your internal practices to see how you differ.
 
 ## The companies  
 
@@ -19,6 +21,9 @@ A curated list by <a href="https://jobeir.com">Jobeir</a> of how comapnies withi
   - [Shopify](#shopify)
   - [Slack](#slack)
   - [Stripe](#stripe)
+  
+  - [Hiring Engineers with Ammon Bartram, By Y Combinator (video)](#hiring-engineers-with-ammon-bartram)
+  
 
 ### How do I add a company?  
 
@@ -34,7 +39,7 @@ If you'd like to add a company please send a PR with a new folder, the companies
 
 Asana’s mission is to help humanity thrive by enabling all teams to work together effortlessly.
 
-<a href="https://blog.asana.com/2016/03/asana-engineering-interview-guide/">Asana interview guide</a>
+<a href="https://asana.com/eng/interview-guide">Engineering Interview Guide</a>
 
 </br>
 <hr />
@@ -221,6 +226,9 @@ Making work simpler, more pleasant, and more productive. At Slack, we’re build
 Stripe is the best way to accept payments online and in mobile apps. We handle billions of dollars every year for forward-thinking businesses around the world.
 
 <a href="https://stripe.com/jobs/engineering-onsite.pdf">On-site interviews for Engineering: What to expect</a>
+
+## Hiring Engineers with Ammon Bartram
+<a href="https://blog.ycombinator.com/hiring-engineers-with-ammon-bartram/">Y Combinator blog - Hiring Engineers</a>
 
 </br>
 <hr />
